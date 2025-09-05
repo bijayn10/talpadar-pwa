@@ -1,0 +1,22 @@
+{
+  "name": "Talpadar TV",
+  "short_name": "TalpadarTV",
+  "start_url": "https://www.talpadartv.in/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff0000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://www.talpadartv.in/favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.talpadartv.in/favicon.ico",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
